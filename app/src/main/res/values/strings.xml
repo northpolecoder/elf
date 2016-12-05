@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Electronic List Facility</string>
+    <string name="app_name">Electronic List Facility (ELF)</string>
+    <string name="instructions">Check whether someone is on the naughty list or the nice list:</string>
+    <string name="name_hint">Enter name…</string>
+    <string name="button">Check</string>
+    <string name="checking_list">Checking list once…</string>
+    <string name="checking_twice">Checking it twice…</string>
+    <string name="is_on">currently on the</string>
+    <string name="nice_list">Nice list</string>
+    <string name="naughty_list">Naughty list</string>
 </resources>
